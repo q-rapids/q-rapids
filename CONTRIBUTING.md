@@ -13,11 +13,14 @@ There are several ways to contribute to Q-Rapids project
 
 We are interested in your opinion about the Q-Rapids tool. You can submit an issue report in the corresponding GitHub repository or use the contact page in the [Q-Rapids website](http://www.q-rapids.eu/contact).
 
-You can find some details for submitting an issue report at the end of this file
+You can find some details for submitting an issue report in the [last section of this file](https://github.com/q-rapids/q-rapids/blob/master/CONTRIBUTING.md#q-rapids-contribution-guidelines)
 
 # Testing
 
 Test new Q-Rapids tool versions and report bugs opening issues in the corresponding GitHub repository. It is important to report bugs correctly giving the sufficient detail to reproduce them.
+
+You can find some details for submitting an issue report in the [last section of this file](https://github.com/q-rapids/q-rapids/blob/master/CONTRIBUTING.md#q-rapids-contribution-guidelines)
+
 
 # Contributing with Code
 
