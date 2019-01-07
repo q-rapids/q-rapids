@@ -13,13 +13,13 @@ There are several ways to contribute to Q-Rapids project
 
 We are interested in your opinion about the Q-Rapids tool. You can submit an issue report in the corresponding GitHub repository or use the contact page in the [Q-Rapids website](http://www.q-rapids.eu/contact).
 
-You can find some details for submitting an issue report in the [last section of this file](https://github.com/q-rapids/q-rapids/blob/master/CONTRIBUTING.md#how-to-submit-an-issue-report)
+You can find some details for submitting an issue report in the [last section of this file](https://github.com/q-rapids/q-rapids/blob/master/CONTRIBUTING.md#how-to-submit-an-issue-report).
 
 # Testing
 
 Test new Q-Rapids tool versions and report bugs opening issues in the corresponding GitHub repository. It is important to report bugs correctly giving the sufficient detail to reproduce them.
 
-You can find some details for submitting an issue report in the [last section of this file](https://github.com/q-rapids/q-rapids/blob/master/CONTRIBUTING.md#how-to-submit-an-issue-report)
+You can find some details for submitting an issue report in the [last section of this file](https://github.com/q-rapids/q-rapids/blob/master/CONTRIBUTING.md#how-to-submit-an-issue-report).
 
 
 # Contributing with Code
@@ -27,14 +27,14 @@ You can find some details for submitting an issue report in the [last section of
 In order to separate the contributions from the different developers groups, there are several repositories in the GitHub where developers can contribute.
 
 Before submitting new code
-- Please make sure that you’re respecting the license of the corresponding component, adding the corresponding headers to the new files
+- Please make sure that you’re respecting the license of the corresponding component, adding the corresponding headers to the new files.
 - Always create a new feature branch for your code contribution based on the master branch.
-- If your contribution is realted to a known issues, please include a reference to the issue in the commit comment
+- If your contribution is realted to a known issues, please include a reference to the issue in the commit comment.
 
 # Documenting
 If you think that something can be improved, open a issue in the corresponding GitHub repository.
 
-If you consider that something is missing, you can also add new pages or add some direct links to the sidebar locate at the right
+If you consider that something is missing, you can also add new pages or add some direct links to the sidebar locate at the right.
 
 <!--- If you need to include some images in the wiki pages, we need to store them in the folder "images" for this wiki. For clonning the wiki repository, you can execute:
 
@@ -60,18 +60,17 @@ Before submitting a new issue
 - It would be very much appreciated if you would search the project bug tracker to avoid creating a duplicate issue.
 
 Your issue should include at least the following information:
-- Your operating system,
-- If you report a bug, please include steps to reproduce it. Please add a step by step documentation and screenshots if applicable.
+- If you report a bug, please include steps to reproduce it. Please add a step by step documentation and screenshots if applicable and your operating system.
 - If you report an enhancement request, please describe enough details so that others can understand it.
 
-This repository defines a set of labels that are used to differentiate 3 kinds of issues:
-1. **"bug"**: bugs/malfunctions
-2. **"enhancement"**: new features or improvements
-3. **"question"** or **"help wanted"**: asking for assistance
+This project uses a set of labels that are used to differentiate 3 kinds of issues:
+1. **"bug"**: bugs/malfunctions.
+2. **"enhancement"**: new features or improvements.
+3. **"question"** or **"help wanted"**: asking for assistance.
 
 It is recommended to use always one of these 3 labels to characterise the issue.
 
-Besides these labels, this repository also include 2 in order to indicate that the issue is special:
+Besides these labels, there are 2 labels to indicate that the issue is special:
 1. **"blocking"**: a critical issue, something to be handled as soon as possible.
 2. **"nicetohave"**: a low priority issue. 
 
