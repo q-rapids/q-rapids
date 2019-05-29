@@ -7,12 +7,12 @@ Repository with general information about Q-Rapids H2020 project and the softwar
 Q-Rapids consortium consists of seven organisations from five countries.
 
 - [Universidad Politecnica de Catalunya](https://gessi.upc.edu/en) (UPC)
-- [University of Oulu](www.oulu.fi/university/) (UoO)
-- [Fraunhofer IESE](www.iese.fraunhofer.de)
-- [Bittium](www.bittium.com)
-- [Softeam](www.softeam.com)
-- [iTTi](www.itti.com.pl/en)
-- [Nokia](www.nokia.com)
+- [University of Oulu](https://www.oulu.fi/university/) (UoO)
+- [Fraunhofer IESE](https://www.iese.fraunhofer.de/)
+- [Bittium](https://www.bittium.com/)
+- [Softeam](https://www.softeamgroup.fr/en)
+- [iTTi](https://www.itti.com.pl/en/)
+- [Nokia](https://www.nokia.com/es_int/)
 
 # Components
 
