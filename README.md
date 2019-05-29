@@ -26,6 +26,8 @@ Q-Rapids consortium consists of seven organisations from five countries.
 | [qrapids-qma-elastic](https://github.com/q-rapids/qma-elastic) | Quality Model Assessment library | A library to read and write the assessment data from an Elasticsearch. This library is integrated in the [qrapids-dashboard](https://github.com/q-rapids/qrapids-dashboard). | UPC|
 | [qrapids-qr_generation](https://github.com/q-rapids/qr_generation) | Quality Requirements Generator | A library that generates the quality requirements candidates. This library uses the external tool [PABRE-WS](https://github.com/OpenReqEU/requirement-patterns) for managing a quality requirement patterns catalogue. | UPC|
 
+**Note.** You can find how these components are interacting each other in the [Q-Rapids Tool Architecture](https://github.com/q-rapids/q-rapids/wiki/Q-Rapids-Tool-Architecture) wiki page.
+
 # Others
 | Repository | Name | Description | Lead Organization |
 | ---| ---- | ----------- | :-------------:| 
