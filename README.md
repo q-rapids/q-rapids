@@ -30,7 +30,7 @@ Q-Rapids consortium consists of seven organisations from five countries.
 
 # Others
 | Repository | Name | Description | Lead Organization |
-| ---| ---- | ----------- | :-------------:| 
+| ---| ---- | ----------- | -------------| 
 | [qrapids-forecast-R_script](https://github.com/q-rapids/qrapids-forecast-R_script) | Forecasting R script | This repository contains an R script file complementing the forecasting techniques included by default in the [qrapids-forecast](https://github.com/q-rapids/qrapids-forecast) repository. | UPC|
 
 
