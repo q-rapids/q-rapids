@@ -6,6 +6,7 @@ Repository with general information about Q-Rapids H2020 project and the softwar
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 732253.
 
+You can find all the information you need in this repository [Wiki](https://github.com/q-rapids/q-rapids/wiki).
 # Consortium
 
 Q-Rapids consortium consists of seven organisations from five countries.
