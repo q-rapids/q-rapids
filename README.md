@@ -47,3 +47,5 @@ Q-Rapids consortium consists of seven organisations from five countries.
 See the Q-Rapids Contribution Guidelines [here](https://github.com/q-rapids/q-rapids/blob/master/CONTRIBUTING.md).
 
 
+*Note*: Some of the icons used in the Q-Rapids space are comming from https://pixabay.com/
+
