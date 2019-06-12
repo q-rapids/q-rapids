@@ -1,4 +1,4 @@
-# <img src="https://github.com/q-rapids/q-rapids/wiki/images/logos/qrapids_logo_color_100x100.png" width="60">Quality-aware rapid software development
+# <img src="https://github.com/q-rapids/q-rapids/wiki/images/logos/qrapids_logo_color_100x100_noname.png" width="60">Q-Rapids: Quality-aware rapid software development
 
 Repository with general information about Q-Rapids H2020 project and the software components produced. The aim of the project is produce an evidence-based, data-driven quality-aware rapid software development method where quality requirements are incrementally elicited, refined and improved based on data gathered from software repositories, management tools, system usage and quality of service. This data is analysed and aggregated into quality-related strategic indicators which are presented in a highly informative dashboard.
 
