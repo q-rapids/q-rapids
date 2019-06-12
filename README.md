@@ -2,7 +2,7 @@
 
 Repository with general information about Q-Rapids H2020 project and the software components produced. The aim of the project is produce an evidence-based, data-driven quality-aware rapid software development method where quality requirements are incrementally elicited, refined and improved based on data gathered from software repositories, management tools, system usage and quality of service. This data is analysed and aggregated into quality-related strategic indicators which are presented in a highly informative dashboard.
 
-![](images/qrapids_framework.png)
+![](https://github.com/q-rapids/q-rapids/wiki/images/qrapids_framework.png)
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 732253.
 
