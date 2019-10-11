@@ -56,10 +56,10 @@ See the Q-Rapids Contribution Guidelines [here](https://github.com/q-rapids/q-ra
 # Glosary
 | Name | Description |
 | ---| ---- | 
-| ASD | Agile Software Development |
-| QM | Quality Model |
-| QR | Quality Requirement |
-| SI | Strategic Indicators|
+| **ASD** | Agile Software Development |
+| **QM** | Quality Model |
+| **QR** | Quality Requirement |
+| **SI** | Strategic Indicators|
 
 *Note*: Some of the icons used in the Q-Rapids space are comming from https://pixabay.com/
 
