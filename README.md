@@ -45,7 +45,7 @@ Q-Rapids consortium consists of seven organisations from five countries.
 | ---| ---- | ----------- | -------------| 
 | **QR Patterns Catalogue Configuration** | Guidelines for the configuration of the QR patterns catalogue used for generating QRs |  [How to configure the QR patterns catalogue](https://github.com/q-rapids/qrapids-qr_generation/wiki/How-to-configure-the-QR-patterns-catalogue) | UPC|
 | **QR Patterns Catalogue** | QR patterns catalogue used for generating QRs | | UPC|
-| **SI Qualitative Estimation Configuration** | Guidelines for the creation of the estimation model for SI using Bayesian Netwoks (BN)| [How to configure a SI Estimation Model](https://github.com/q-rapids/qrapids-qr_generation/wiki/How-to-configure-a-SI-Estimation-Model) | UPC|
+| **SI Qualitative Assessment Configuration** | Guidelines for the creation of the assessment model for SI using Bayesian Netwoks (BN)| [How to configure a SI Assessment Model](https://github.com/q-rapids/qrapids-qr_generation/wiki/How-to-configure-a-SI-Assessment-Model) | UPC|
 | **Quality Model Configuration** | Guidelines for the configuration of the Quality Model (SIs, Factors, Metrics)| | Fraunhofer |
 | **Quality Model factors and metrics** | Files used to congifure factors and metrics defined in the QRapids Quality Model | | Fraunhofer & UoO |
 | **Q-Rapids Process** | Development process to integrate the Q-Rapids tool for managing quality in ASD || UoO |
