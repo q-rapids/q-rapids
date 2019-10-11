@@ -48,7 +48,7 @@ Q-Rapids consortium consists of seven organisations from five countries.
 | SI Qualitative Estimation Configuration | Guidelines for the creation of the estimation model for SI using Bayesian Netwoks (BN)| | UPC|
 | Quality Model (QM) Configuration | Guidelines for the configuration of the Quality Model (SIs, Factors, Metrics)| | Fraunhofer |
 | Quality Model (QM) factors and metrics| Files used to congifure factors and metrics defined in the QRapids QM | | Fraunhofer & UoO |
-| QRapids Process | Development process to integrate the Q-Rapids tool for managing quality in ASD || UoO |
+| Q-Rapids Process | Development process to integrate the Q-Rapids tool for managing quality in ASD || UoO |
 
 # Contributing
 See the Q-Rapids Contribution Guidelines [here](https://github.com/q-rapids/q-rapids/blob/master/CONTRIBUTING.md).
