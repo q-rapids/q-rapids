@@ -40,13 +40,26 @@ Q-Rapids consortium consists of seven organisations from five countries.
 **Note.** You can find how these components are interacting each other in the [Q-Rapids Tool Architecture](https://github.com/q-rapids/q-rapids/wiki/Q-Rapids-Tool-Architecture) wiki page.
 
 # Knowledge
+
 | Name | Description | URL | Lead Organization |
 | ---| ---- | ----------- | -------------| 
+| QR Patterns Catalogue Configuration | Guidelines for the configuration of the QR patterns catalogue used for generating QRs | | UPC|
 | QR Patterns Catalogue | QR patterns catalogue used for generating QRs | | UPC|
+| SI Qualitative Estimation Configuration | Guidelines for the creation of the estimation model for SI using Bayesian Netwoks (BN)| | UPC|
+| Quality Model (QM) Configuration | Guidelines for the configuration of the Quality Model (SIs, Factors, Metrics)| | Fraunhofer |
+| Quality Model (QM) factors and metrics| Files used to congifure factors and metrics defined in the QRapids QM | | Fraunhofer & UoO |
+| QRapids Process | Development process to integrate the Q-Rapids tool for managing quality in ASD || UoO |
 
 # Contributing
 See the Q-Rapids Contribution Guidelines [here](https://github.com/q-rapids/q-rapids/blob/master/CONTRIBUTING.md).
 
+# Glosary
+| Name | Description |
+| ---| ---- | 
+| ASD | Agile Software Development |
+| QM | Quality Model |
+| QR | Quality Requirement |
+| SI | Strategic Indicators|
 
 *Note*: Some of the icons used in the Q-Rapids space are comming from https://pixabay.com/
 
