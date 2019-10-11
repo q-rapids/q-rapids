@@ -40,9 +40,9 @@ Q-Rapids consortium consists of seven organisations from five countries.
 **Note.** You can find how these components are interacting each other in the [Q-Rapids Tool Architecture](https://github.com/q-rapids/q-rapids/wiki/Q-Rapids-Tool-Architecture) wiki page.
 
 # Knowledge
-| Repository | Name | Description | Lead Organization |
+| Name | Description | URL | Lead Organization |
 | ---| ---- | ----------- | -------------| 
-| [qrapids-forecast-R_script](https://github.com/q-rapids/qrapids-forecast-R_script) | Forecasting R script | This repository contains an R script file complementing the forecasting techniques included by default in the [qrapids-forecast](https://github.com/q-rapids/qrapids-forecast) repository. | UPC|
+| QR Patterns Catalogue | QR patterns catalogue used for generating QRs | | UPC|
 
 # Contributing
 See the Q-Rapids Contribution Guidelines [here](https://github.com/q-rapids/q-rapids/blob/master/CONTRIBUTING.md).
