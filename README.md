@@ -43,7 +43,7 @@ Q-Rapids consortium consists of seven organisations from five countries.
 
 | Name | Description | URL | Lead Organization |
 | ---| ---- | ----------- | -------------| 
-| **SDM Ontology** | Strategic Decision-Making ontology providing a common underlying language integrating the concepts to manage decisions and to handle strategic indicators | [SDM Ontology](https://github.com/q-rapids/q-rapids/wiki/Quality-Model-Configuration-Guidelines) | UPC|
+| **SDM Ontology** | Strategic Decision-Making ontology providing a common underlying language integrating the concepts to manage decisions and to handle strategic indicators | [SDM Ontology](https://github.com/q-rapids/q-rapids/wiki/SDM-Ontology) | UPC|
 | **QR Patterns Catalogue Configuration** | Guidelines for the configuration of the QR patterns catalogue used for generating QRs |  [How to configure the QR patterns catalogue](https://github.com/q-rapids/qrapids-qr_generation/wiki/How-to-configure-the-QR-patterns-catalogue) | UPC|
 | **QR Patterns Catalogue** | QR patterns catalogue used for generating QRs | | UPC|
 | **SI Qualitative Assessment Configuration** | Guidelines for the creation of the assessment model for SI using Bayesian Netwoks (BN)| [How to configure a SI Assessment Model](https://github.com/q-rapids/qrapids-qr_generation/wiki/How-to-configure-a-SI-Assessment-Model) | UPC|
