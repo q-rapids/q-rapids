@@ -48,6 +48,7 @@ Q-Rapids consortium consists of seven organisations from five countries.
 | **QR Patterns Catalogue** | QR patterns catalogue used for generating QRs | [QR patterns catalogue](https://github.com/q-rapids/qrapids-qr_generation/blob/master/src/main/resources/QRcatalog.json)| UPC|
 | **SI Qualitative Assessment Configuration** | Guidelines for the creation of the assessment model for SI using Bayesian Netwoks (BN)| [How to configure a SI Assessment Model](https://github.com/q-rapids/qrapids-si_assessment/wiki/How-to-configure-a-SI-Assessment-Model) | UPC|
 | **Quality Model Configuration** | Guidelines for the configuration of the Quality Model (SIs, Factors, Metrics)| [Quality Model Configuration Guidelines](https://github.com/q-rapids/q-rapids/wiki/Quality-Model-Configuration-Guidelines)| Fraunhofer |
+| **Data-driven Quality Model Scripts** | Exemplar R and Python scripts used during data analysis for data-driven quality models | [R and Python scripts for data-driven quality model example](https://github.com/q-rapids/q-rapids/tree/master/knowledge/data-analysis)| Fraunhofer |
 | **Quality Model factors and metrics** | Files used to configure factors and metrics defined in the Q-Rapids Quality Model | [Factors](https://github.com/q-rapids/qrapids-eval/blob/master/projects/default/factors.properties), [Metrics](https://github.com/q-rapids/qrapids-eval/tree/master/projects/default/metrics)| Fraunhofer & UoO |
 | **Q-Rapids Process** | Development process to integrate the Q-Rapids tool for managing quality in ASD || UoO |
 
