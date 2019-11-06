@@ -31,6 +31,8 @@ Before submitting new code
 - Always create a new feature branch for your code contribution based on the master branch.
 - If your contribution is realted to a known issues, please include a reference to the issue in the commit comment.
 
+You can find some development guidelines in this [repository's Wiki](https://github.com/q-rapids/q-rapids/wiki/Contributing-with-code)
+
 # Documenting
 If you think that something can be improved, open a issue in the corresponding GitHub repository.
 
